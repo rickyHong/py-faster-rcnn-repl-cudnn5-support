@@ -1,3 +1,9 @@
+cuDNN V5 compatibility patch - version 1
+
+Please refer to this article to understand the reason and details for this fork.
+
+https://medium.com/@vikram.gupta/fixing-py-faster-rcnn-for-cudnn5-a7993d3ff3a1
+
 # py-faster-rcnn has been deprecated. Please see [Detectron](https://github.com/facebookresearch/Detectron), which includes an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870).
 
 ### Disclaimer
